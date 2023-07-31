@@ -1,4 +1,6 @@
-# 5G-Localization
+# 5G Localization
+
+This is a demonstration of 5G mmWave mMIMO localization.
 
 This repository contains the functions and scripts necessary to test a geometry-based Mobile Station (MS) localization method in 5G networks.
  The method consists of three main stages:
