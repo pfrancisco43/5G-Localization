@@ -10,7 +10,7 @@ This repository contains the functions and scripts necessary to test a geometry-
    - _2D Angle of Departure (AoD);_
    - _2D Angle of Arrival (AoA)._
 4. **Localization:**
-   - _Geometry-based algorithm for LoS condition;_
-   - _Geometry-based algorithm for NLoS condition._
+   - _Geometry-based algorithm for Line-of-Sight (LoS) condition;_
+   - _Geometry-based algorithm for Non-Line-of-Sight (LoS) condition._
 
-To perform the test, use the Matlab software and run the script Main.m.
+To perform the test, use the Matlab software and run the script **Main.m**. The default simulation is parameterized for Line-of-Sight (LoS) condition. However, it is possible to modify the parameters in the INPUT section of the **Main.m** script and conduct customized tests.
